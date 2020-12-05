@@ -4,7 +4,7 @@ import requests
 
 
 #getting the movie base url
-# base_url = None
+base_url = None
 
 def configure_request(app):
     global base_url
